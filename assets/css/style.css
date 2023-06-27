@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
 } */
+/*Not liking the color choice but keeping for now*/
 *{
     background-color: darkblue;
 }
@@ -37,6 +38,7 @@ header nav ul li {
     font-size: 25px;
     color: blue;
 }
+/*Need to get a different image and figure out how to size correctly so it will shrink.grow with the page correctlty*/
 img {
     max-width: 200px;
     
@@ -47,7 +49,7 @@ img {
     font-family: Arial, Helvetica, sans-serif;
 
 }
-
+/*Not liking how this is displaying*/
 .projects {
     display: flex;
     justify-content:space-between;
