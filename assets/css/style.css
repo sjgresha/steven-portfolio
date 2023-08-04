@@ -5,7 +5,7 @@
 } */
 /*Not liking the color choice but keeping for now*/
 *{
-    background-color: darkblue;
+    background-color: darkcyan;
 }
 header {
     /*background-color: blue;*/
@@ -14,7 +14,7 @@ header {
 }
 h1 {
     text-align: center;
-    color: aqua;
+    color: goldenrod;
 }
 header nav {
     float: none;
@@ -36,7 +36,8 @@ header nav ul li {
 }
 #bio h2 {
     font-size: 25px;
-    color: blue;
+    /*color: blue;*/
+    color: goldenrod;
 }
 /*Need to get a different image and figure out how to size correctly so it will shrink.grow with the page correctlty*/
 img {
@@ -70,10 +71,18 @@ img {
     color: white;
 }
 .project-styles p {
-    color: cyan;
+    color: goldenrod;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
+/*Wanted to put an example image of the project as a background. Not sure how it will look. Still trying to get it to display
+#project-1 {
+    background-image: url('/assets/images/project-one-readme-image.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}*/
 footer {
     border-style:dashed;
     color: white;
@@ -81,7 +90,7 @@ footer {
 footer p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    color: aquamarine;
+    color: black;
 }
 
 
